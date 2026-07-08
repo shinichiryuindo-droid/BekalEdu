@@ -1,2 +1,2 @@
-# tikusedu
-A comprehensive scholarship discovery platform that matches students with relevant scholarships and tracks their applications.
+# BekalEdu
+A comprehensive scholarship discovery platform and school supply thrift store that matches students with relevant scholarships and tracks their applications.
